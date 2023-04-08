@@ -9,6 +9,12 @@ return {
   --     require("lsp_signature").setup()
   --   end,
   -- },
+  {
+    "simrat39/symbols-outline.nvim",
+    config = function()
+      require("symbols_outline").setup()
+    end,
+  },
   --{
   --  "catppuccin/nvim",
   --  as = "catppuccin",

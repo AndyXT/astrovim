@@ -21,5 +21,6 @@ return {
   { import = "astrocommunity.editing-support.todo-comments-nvim" },
   { import = "astrocommunity.editing-support.zen-mode-nvim" },
   { import = "astrocommunity.note-taking.neorg" },
+  { import = "astrocommunity.pack.python" },
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
 }
