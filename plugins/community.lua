@@ -22,5 +22,7 @@ return {
   { import = "astrocommunity.editing-support.zen-mode-nvim" },
   { import = "astrocommunity.note-taking.neorg" },
   { import = "astrocommunity.pack.python" },
+  { import = "astrocommunity.diagnostics.trouble-nvim" },
+  { import = "astrocommunity.diagnostics.lsp_lines-nvim" },
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
 }
