@@ -15,6 +15,12 @@ return {
       require("symbols_outline").setup()
     end,
   },
+  {
+    "p00f/clangd_extensions.nvim",
+    config = function()
+      require("clangd_extensions").prepare()
+    end,
+  },
   --{
   --  "catppuccin/nvim",
   --  as = "catppuccin",
