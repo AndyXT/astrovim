@@ -22,11 +22,12 @@ return {
   { import = "astrocommunity.editing-support.refactoring-nvim" },
   { import = "astrocommunity.editing-support.todo-comments-nvim" },
   { import = "astrocommunity.editing-support.zen-mode-nvim" },
+  { import = "astrocommunity.editing-support.nvim-ts-rainbow2" },
+  { import = "astrocommunity.editing-support.neogen" },
   { import = "astrocommunity.note-taking.neorg" },
   { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.diagnostics.trouble-nvim" },
   { import = "astrocommunity.diagnostics.lsp_lines-nvim" },
   { import = "astrocommunity.debugging.nvim-bqf" },
-  { import = "astrocommunity.editing-support.nvim-ts-rainbow2" },
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
 }
